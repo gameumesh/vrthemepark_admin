@@ -1,0 +1,74 @@
+{
+  "tabText1": "tab 1 Text",
+  "tabText2": "tab 2 Text",
+  "cards": [
+    {
+      "cardReviewCount": "10 reviews",
+      "cardTitle": "Card 1 Title",
+      "cardBody": "This is the body of card 1.",
+      "cardButton": "Click Here",
+      "cardVisitorCount": "100 visitors",
+      "cardFooter": "Footer content for card 1"
+    },
+    {
+      "cardReviewCount": "20 reviews",
+      "cardTitle": "Card 2 Title",
+      "cardBody": "This is the body of card 2.",
+      "cardButton": "Read More",
+      "cardVisitorCount": "200 visitors",
+      "cardFooter": "Footer content for card 2"
+    },
+    {
+      "cardReviewCount": "30 reviews",
+      "cardTitle": "Card 3 Title",
+      "cardBody": "This is the body of card 3.",
+      "cardButton": "Learn More",
+      "cardVisitorCount": "300 visitors",
+      "cardFooter": "Footer content for card 3"
+    },
+    {
+      "cardReviewCount": "40 reviews",
+      "cardTitle": "Card 4 Title",
+      "cardBody": "This is the body of card 4.",
+      "cardButton": "Discover",
+      "cardVisitorCount": "400 visitors",
+      "cardFooter": "Footer content for card 4"
+    },
+    {
+      "cardReviewCount": "50 reviews",
+      "cardTitle": "Card 5 Title",
+      "cardBody": "This is the body of card 5.",
+      "cardButton": "Explore",
+      "cardVisitorCount": "500 visitors",
+      "cardFooter": "Footer content for card 5"
+    },
+    {
+      "cardReviewCount": "60 reviews",
+      "cardTitle": "Card 6 Title",
+      "cardBody": "This is the body of card 6.",
+      "cardButton": "Find Out More",
+      "cardVisitorCount": "600 visitors",
+      "cardFooter": "Footer content for card 6"
+    },
+    {
+      "cardReviewCount": "70 reviews",
+      "cardTitle": "Card 7 Title",
+      "cardBody": "This is the body of card 7.",
+      "cardButton": "See Details",
+      "cardVisitorCount": "700 visitors",
+      "cardFooter": "Footer content for card 7"
+    },
+    {
+      "cardReviewCount": "80 reviews",
+      "cardTitle": "Card 8 Title",
+      "cardBody": "This is the body of card 8.",
+      "cardButton": "More Info",
+      "cardVisitorCount": "800 visitors",
+      "cardFooter": "Footer content for card 8"
+    }
+  ],
+  "button1": "Button 1 Text",
+  "button2": "Button 2 Text",
+  "runningText": "This is the running text",
+  "button3": "Button 3 Text"
+}
